@@ -26314,3 +26314,24 @@ Processing IssuesController#index (for 127.0.0.1 at 2012-11-09 12:13:14) [GET]
 Rendering template within layouts/base
 Rendering issues/index
 Completed in 505ms (View: 355, DB: 81) | 200 OK [http://localhost/projects/little_big_permis/issues]
+
+
+Processing IssuesController#index (for 127.0.0.1 at 2012-11-09 14:27:40) [GET]
+  Parameters: {"controller"=>"issues", "action"=>"index", "project_id"=>"little_big_permis"}
+Rendering template within layouts/base
+Rendering issues/index
+Completed in 515ms (View: 364, DB: 76) | 200 OK [http://localhost/projects/little_big_permis/issues]
+
+
+Processing IssuesController#index (for 127.0.0.1 at 2012-11-09 14:39:47) [GET]
+  Parameters: {"controller"=>"issues", "action"=>"index", "project_id"=>"little_big_permis"}
+Rendering template within layouts/base
+Rendering issues/index
+Completed in 350ms (View: 246, DB: 15) | 200 OK [http://localhost/projects/little_big_permis/issues]
+
+
+Processing IssuesController#index (for 127.0.0.1 at 2012-11-09 14:39:49) [GET]
+  Parameters: {"controller"=>"issues", "query_id"=>"7", "action"=>"index", "project_id"=>"little_big_permis"}
+Rendering template within layouts/base
+Rendering issues/index
+Completed in 100ms (View: 72, DB: 11) | 200 OK [http://localhost/projects/little_big_permis/issues?query_id=7]
