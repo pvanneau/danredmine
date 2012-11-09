@@ -1,4 +1,4 @@
 DAN Redmine
 ==========
 
-DAN Redmin configuration, plugin and customization
+DAN Redmine configuration, plugins and customization
